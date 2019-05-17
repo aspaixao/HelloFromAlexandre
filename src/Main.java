@@ -4,7 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        System.out.println("Hi, my name's Alexandre Paixao.");
+        System.out.println("╔═════════════════════════════════════════════════╗"); //187
+        System.out.println("║                    SAY HELLO                    ║"); //187
+        System.out.println("╚═════════════════════════════════════════════════╝"); //187
+        System.out.println("\t> Hi, my name's Alexandre Paixao.");
+        // please, include your hello here
     }
 
 }
