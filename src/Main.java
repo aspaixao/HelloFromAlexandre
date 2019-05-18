@@ -8,7 +8,7 @@ public class Main {
         System.out.println("║                    SAY HELLO                    ║"); //187
         System.out.println("╚═════════════════════════════════════════════════╝"); //187
         System.out.println("\t> Hi, my name's Alexandre Paixao.");
-        // please, include your hello here
+        System.out.println("\n\t> Hello Alexandre Paixao, I am Margareth!");
     }
 
 }
